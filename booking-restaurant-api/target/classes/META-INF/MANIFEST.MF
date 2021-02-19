@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: David
+Build-Jdk: 15.0.2
+Implementation-Title: booking-restaurant-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: booking-restaurant-api
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
